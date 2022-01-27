@@ -1,0 +1,14 @@
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#cont-1 {
+    color: darkblue;
+    border: darkred 2px solid;
+    background-color: rgb(206, 248, 248);
+
+}
