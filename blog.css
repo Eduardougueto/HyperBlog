@@ -8,9 +8,18 @@
 
 }
 
+#cabecera {
+    border: 2px rgb(238, 132, 113) solid;
+    margin-bottom: 10px;
+    text-align: right;
+}
 #cabecera p {
     color: rgb(223, 16, 16);
     font-size: 2rem;
+}
+#cabecera .downcase {
+    text-align: center;
+    font-size: 1rem;
 }
 
 #cont-1 {
