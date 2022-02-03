@@ -1,11 +1,15 @@
 
+body {
+    background-color: rgb(0, 21, 61);
+}
+
 .container {
     width: 70%;
     margin: 0 auto;
     text-align: center;
     padding: 20px 20px;
     background-color: rgb(206, 248, 248);
-
+    margin-top: 100px;
 }
 
 #cabecera {
